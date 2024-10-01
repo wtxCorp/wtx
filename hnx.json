@@ -1,0 +1,414 @@
+{
+  "sectores": [
+    {
+      "nombre": "Alimentación",
+      "emoji": "🍽️",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🌾",
+          "empleo": "Agricultor",
+          "contrato": "Jornalero",
+          "negocio": "Granja orgánica"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "👨‍🍳",
+          "empleo": "Chef",
+          "contrato": "Tiempo completo",
+          "negocio": "Restaurante"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🛒",
+          "empleo": "Cajero de supermercado",
+          "contrato": "Medio tiempo",
+          "negocio": "Tienda de abarrotes"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💹",
+          "empleo": "Analista de inversiones alimentarias",
+          "contrato": "Proyecto",
+          "negocio": "Consultoría de inversión en agronegocios"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Inspector de seguridad alimentaria",
+          "contrato": "Funcionario público",
+          "negocio": "Agencia de regulación alimentaria"
+        }
+      ]
+    },
+    {
+      "nombre": "Salud",
+      "emoji": "🏥",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "💊",
+          "empleo": "Técnico farmacéutico",
+          "contrato": "Tiempo completo",
+          "negocio": "Laboratorio farmacéutico"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "👩‍⚕️",
+          "empleo": "Enfermera",
+          "contrato": "Por turnos",
+          "negocio": "Hospital privado"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "💊",
+          "empleo": "Vendedor de equipo médico",
+          "contrato": "Comisión",
+          "negocio": "Distribuidora de insumos médicos"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "🏦",
+          "empleo": "Gestor de seguros médicos",
+          "contrato": "Tiempo completo",
+          "negocio": "Aseguradora de salud"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Epidemiólogo",
+          "contrato": "Funcionario público",
+          "negocio": "Ministerio de Salud"
+        }
+      ]
+    },
+    {
+      "nombre": "Refugio",
+      "emoji": "🏠",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🏗️",
+          "empleo": "Obrero de construcción",
+          "contrato": "Por obra",
+          "negocio": "Constructora"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "🔧",
+          "empleo": "Plomero",
+          "contrato": "Freelance",
+          "negocio": "Servicio de mantenimiento del hogar"
+        },
+        {
+      "nombre": "Comercio",
+          "emoji": "🏘️",
+          "empleo": "Agente inmobiliario",
+          "contrato": "Comisión",
+          "negocio": "Agencia de bienes raíces"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "🏦",
+          "empleo": "Asesor hipotecario",
+          "contrato": "Tiempo completo",
+          "negocio": "Banco hipotecario"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Planificador urbano",
+          "contrato": "Funcionario público",
+          "negocio": "Departamento de Desarrollo Urbano"
+        }
+      ]
+    },
+    {
+      "nombre": "Vestido",
+      "emoji": "👚",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🧵",
+          "empleo": "Operario textil",
+          "contrato": "Tiempo completo",
+          "negocio": "Fábrica de telas"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "✂️",
+          "empleo": "Sastre",
+          "contrato": "Por prenda",
+          "negocio": "Taller de costura"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🛍️",
+          "empleo": "Vendedor de ropa",
+          "contrato": "Medio tiempo",
+          "negocio": "Tienda de moda"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💹",
+          "empleo": "Analista de mercado de moda",
+          "contrato": "Proyecto",
+          "negocio": "Consultoría de tendencias"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Inspector de normas textiles",
+          "contrato": "Funcionario público",
+          "negocio": "Agencia de estándares comerciales"
+        }
+      ]
+    },
+    {
+      "nombre": "Servicios Públicos",
+      "emoji": "⚡",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🔌",
+          "empleo": "Operador de planta eléctrica",
+          "contrato": "Tiempo completo",
+          "negocio": "Compañía eléctrica"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "🚰",
+          "empleo": "Técnico de tratamiento de agua",
+          "contrato": "Tiempo completo",
+          "negocio": "Empresa de agua potable"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "📊",
+          "empleo": "Gestor de cuentas",
+          "contrato": "Tiempo completo",
+          "negocio": "Distribuidora de gas"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💰",
+          "empleo": "Analista de tarifas",
+          "contrato": "Proyecto",
+          "negocio": "Consultoría energética"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Regulador de servicios públicos",
+          "contrato": "Funcionario público",
+          "negocio": "Comisión de Servicios Públicos"
+        }
+      ]
+    },
+    {
+      "nombre": "Educación",
+      "emoji": "🎓",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "📚",
+          "empleo": "Editor de libros de texto",
+          "contrato": "Freelance",
+          "negocio": "Editorial educativa"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "👩‍🏫",
+          "empleo": "Profesor",
+          "contrato": "Tiempo completo",
+          "negocio": "Escuela privada"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🖥️",
+          "empleo": "Vendedor de software educativo",
+          "contrato": "Comisión",
+          "negocio": "Tienda de tecnología educativa"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💳",
+          "empleo": "Asesor de préstamos estudiantiles",
+          "contrato": "Tiempo completo",
+          "negocio": "Banco educativo"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Administrador escolar",
+          "contrato": "Funcionario público",
+          "negocio": "Ministerio de Educación"
+        }
+      ]
+    },
+    {
+      "nombre": "Transporte",
+      "emoji": "🚗",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🏭",
+          "empleo": "Ensamblador de vehículos",
+          "contrato": "Tiempo completo",
+          "negocio": "Fábrica de automóviles"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "🚌",
+          "empleo": "Conductor de autobús",
+          "contrato": "Por turnos",
+          "negocio": "Compañía de transporte público"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🚙",
+          "empleo": "Vendedor de autos",
+          "contrato": "Comisión",
+          "negocio": "Concesionario de vehículos"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💰",
+          "empleo": "Analista de leasing de vehículos",
+          "contrato": "Tiempo completo",
+          "negocio": "Empresa de arrendamiento de flotas"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Inspector de tránsito",
+          "contrato": "Funcionario público",
+          "negocio": "Departamento de Transporte"
+        }
+      ]
+    },
+    {
+      "nombre": "Comunicaciones",
+      "emoji": "📱",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "📡",
+          "empleo": "Ingeniero de telecomunicaciones",
+          "contrato": "Tiempo completo",
+          "negocio": "Fabricante de equipos de red"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "📞",
+          "empleo": "Técnico de soporte",
+          "contrato": "Por turnos",
+          "negocio": "Proveedor de servicios de internet"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🏪",
+          "empleo": "Vendedor de planes de telefonía",
+          "contrato": "Comisión",
+          "negocio": "Tienda de operador móvil"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "📊",
+          "empleo": "Analista de inversiones en tecnología",
+          "contrato": "Tiempo completo",
+          "negocio": "Firma de inversión en telecomunicaciones"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Regulador de telecomunicaciones",
+          "contrato": "Funcionario público",
+          "negocio": "Comisión Federal de Comunicaciones"
+        }
+      ]
+    },
+    {
+      "nombre": "Entretenimiento",
+      "emoji": "🎭",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🎬",
+          "empleo": "Productor de cine",
+          "contrato": "Por proyecto",
+          "negocio": "Estudio de cine"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "🎤",
+          "empleo": "Músico",
+          "contrato": "Por evento",
+          "negocio": "Banda musical"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🎟️",
+          "empleo": "Vendedor de entradas",
+          "contrato": "Medio tiempo",
+          "negocio": "Plataforma de venta de boletos"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💼",
+          "empleo": "Agente de talentos",
+          "contrato": "Comisión",
+          "negocio": "Agencia de representación artística"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Gestor cultural",
+          "contrato": "Funcionario público",
+          "negocio": "Ministerio de Cultura"
+        }
+      ]
+    },
+    {
+      "nombre": "Turismo",
+      "emoji": "✈️",
+      "etapas": [
+        {
+          "nombre": "Producción",
+          "emoji": "🏨",
+          "empleo": "Arquitecto de hoteles",
+          "contrato": "Por proyecto",
+          "negocio": "Firma de diseño hotelero"
+        },
+        {
+          "nombre": "Servicios",
+          "emoji": "🧳",
+          "empleo": "Guía turístico",
+          "contrato": "Freelance",
+          "negocio": "Agencia de tours"
+        },
+        {
+          "nombre": "Comercio",
+          "emoji": "🏖️",
+          "empleo": "Agente de viajes",
+          "contrato": "Comisión",
+          "negocio": "Agencia de viajes online"
+        },
+        {
+          "nombre": "Financiero",
+          "emoji": "💱",
+          "empleo": "Analista de riesgo en turismo",
+          "contrato": "Tiempo completo",
+          "negocio": "Aseguradora de viajes"
+        },
+        {
+          "nombre": "Gobierno",
+          "emoji": "🏛️",
+          "empleo": "Promotor turístico",
+          "contrato": "Funcionario público",
+          "negocio": "Oficina de Turismo"
+        }
+      ]
+    }
+  ]
+}
