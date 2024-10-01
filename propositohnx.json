@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "categoria": "Networking para tu propósito de vida",
+      "preguntas": [
+        {"text": "¿Quiénes son las 3 personas más influyentes en tu campo de interés y cómo podrías conectar con ellas?"},
+        {"text": "¿Qué eventos o conferencias relacionados con tu propósito de vida planeas asistir este año?"},
+        {"text": "¿Cómo puedes utilizar las redes sociales para conectar con personas que comparten tu propósito de vida?"},
+        {"text": "¿Qué habilidades o conocimientos puedes ofrecer a tu red de contactos que se alineen con tu propósito de vida?"},
+        {"text": "¿Cómo puedes crear una comunidad en línea alrededor de tu propósito de vida?"},
+        {"text": "¿Qué organizaciones o grupos profesionales están alineados con tu propósito de vida y cómo puedes involucrarte?"},
+        {"text": "¿Cómo puedes utilizar el networking para obtener mentores que te guíen en tu propósito de vida?"},
+        {"text": "¿Qué estrategias de networking en línea vs. en persona son más efectivas para tu propósito de vida?"},
+        {"text": "¿Cómo puedes mantener y nutrir las relaciones profesionales que son clave para tu propósito de vida?"},
+        {"text": "¿Qué colaboraciones o alianzas estratégicas podrías buscar para impulsar tu propósito de vida?"}
+      ]
+    },
+    {
+      "categoria": "Negociaciones para tu propósito de vida",
+      "preguntas": [
+        {"text": "¿Cuáles son los principales obstáculos que podrías enfrentar al negociar aspectos de tu propósito de vida?"},
+        {"text": "¿Cómo puedes comunicar efectivamente el valor de tu propósito de vida a posibles socios o inversores?"},
+        {"text": "¿Qué habilidades de negociación necesitas desarrollar para avanzar en tu propósito de vida?"},
+        {"text": "¿Cuáles son tus límites no negociables cuando se trata de tu propósito de vida?"},
+        {"text": "¿Cómo puedes crear situaciones de ganar-ganar en negociaciones relacionadas con tu propósito de vida?"},
+        {"text": "¿Qué recursos o apoyos necesitas negociar para llevar a cabo tu propósito de vida?"},
+        {"text": "¿Cómo manejarías una negociación que parece ir en contra de tu propósito de vida?"},
+        {"text": "¿Qué estrategias de negociación puedes utilizar para obtener más tiempo o flexibilidad para tu propósito de vida?"},
+        {"text": "¿Cómo puedes negociar efectivamente con personas que no comprenden o no apoyan tu propósito de vida?"},
+        {"text": "¿Qué aspectos de tu propósito de vida son negociables y cuáles no lo son?"}
+      ]
+    },
+    {
+      "categoria": "Consumidores para tu propósito de vida",
+      "preguntas": [
+        {"text": "¿Quién es tu consumidor ideal o beneficiario principal de tu propósito de vida?"},
+        {"text": "¿Cómo puedes entender mejor las necesidades y deseos de los consumidores relacionados con tu propósito de vida?"},
+        {"text": "¿Qué valor único ofreces a tus consumidores a través de tu propósito de vida?"},
+        {"text": "¿Cómo puedes educar a tus consumidores sobre la importancia de tu propósito de vida?"},
+        {"text": "¿Qué canales de comunicación son más efectivos para llegar a los consumidores de tu propósito de vida?"},
+        {"text": "¿Cómo puedes involucrar a tus consumidores en el desarrollo o evolución de tu propósito de vida?"},
+        {"text": "¿Qué tipo de experiencia quieres que tengan los consumidores al interactuar con tu propósito de vida?"},
+        {"text": "¿Cómo puedes medir el impacto de tu propósito de vida en tus consumidores?"},
+        {"text": "¿Qué obstáculos podrían enfrentar los consumidores para adoptar o apoyar tu propósito de vida?"},
+        {"text": "¿Cómo puedes fomentar la lealtad y el compromiso a largo plazo de los consumidores con tu propósito de vida?"}
+      ]
+    },
+    {
+      "categoria": "Innovación para el servicio o producto de tu propósito de vida",
+      "preguntas": [
+        {"text": "¿Qué aspectos de tu servicio o producto relacionado con tu propósito de vida podrían ser innovadores?"},
+        {"text": "¿Cómo puedes utilizar la tecnología para mejorar o escalar el impacto de tu propósito de vida?"},
+        {"text": "¿Qué nuevas tendencias o cambios en tu campo podrían influir en la innovación de tu propósito de vida?"},
+        {"text": "¿Cómo puedes fomentar una cultura de innovación continua en el desarrollo de tu propósito de vida?"},
+        {"text": "¿Qué procesos o sistemas podrías innovar para hacer más eficiente la realización de tu propósito de vida?"},
+        {"text": "¿Cómo puedes aplicar principios de diseño centrado en el usuario a tu propósito de vida?"},
+        {"text": "¿Qué recursos o colaboraciones necesitas para impulsar la innovación en tu propósito de vida?"},
+        {"text": "¿Cómo puedes utilizar la retroalimentación de los usuarios para impulsar la innovación en tu propósito de vida?"},
+        {"text": "¿Qué riesgos estás dispuesto a tomar para innovar en la realización de tu propósito de vida?"},
+        {"text": "¿Cómo puedes medir el éxito de las innovaciones relacionadas con tu propósito de vida?"}
+      ]
+    },
+    {
+      "categoria": "Diferenciación para el servicio o producto de tu propósito de vida",
+      "preguntas": [
+        {"text": "¿Qué hace único tu enfoque o solución en comparación con otros en tu campo?"},
+        {"text": "¿Cómo puedes comunicar efectivamente tu propuesta de valor única?"},
+        {"text": "¿Qué aspectos de tu historia personal o motivación pueden ayudar a diferenciar tu propósito de vida?"},
+        {"text": "¿Cómo puedes utilizar el branding para destacar la singularidad de tu propósito de vida?"},
+        {"text": "¿Qué necesidades específicas o nichos de mercado puede abordar tu propósito de vida que otros no están cubriendo?"},
+        {"text": "¿Cómo puedes utilizar la personalización o customización para diferenciar tu oferta?"},
+        {"text": "¿Qué características o beneficios únicos ofrece tu propósito de vida que podrías resaltar?"},
+        {"text": "¿Cómo puedes crear una experiencia memorable o distintiva alrededor de tu propósito de vida?"},
+        {"text": "¿Qué valores o principios fundamentales distinguen tu enfoque de otros en tu campo?"},
+        {"text": "¿Cómo puedes utilizar la innovación para mantener una diferenciación continua en tu propósito de vida?"}
+      ]
+    },
+    {
+      "categoria": "Cómo presentar un proyecto para tu propósito de vida",
+      "preguntas": [
+        {"text": "¿Cuál es la manera más impactante de comenzar la presentación de tu proyecto de propósito de vida?"},
+        {"text": "¿Cómo puedes estructurar tu presentación para mantener el interés y la atención de tu audiencia?"},
+        {"text": "¿Qué datos o estadísticas clave debes incluir para respaldar la importancia de tu proyecto?"},
+        {"text": "¿Cómo puedes utilizar elementos visuales para hacer más atractiva tu presentación?"},
+        {"text": "¿Cuál es la mejor manera de comunicar el impacto potencial de tu proyecto?"},
+        {"text": "¿Cómo puedes abordar posibles objeciones o preguntas difíciles sobre tu proyecto?"},
+        {"text": "¿Qué historia o anécdota personal puedes incluir para conectar emocionalmente con tu audiencia?"},
+        {"text": "¿Cómo puedes adaptar tu presentación a diferentes tipos de audiencias (inversores, socios, público general)?"},
+        {"text": "¿Qué recursos o materiales de apoyo necesitas preparar para tu presentación?"},
+        {"text": "¿Cómo puedes concluir tu presentación de manera memorable y con un llamado claro a la acción?"}
+      ]
+    }
+  ]
+}
