@@ -1,11 +1,11 @@
 {
   "sectores": [
     {
-      "nombre": "Food",
+      "nombre": "Alimentos",
       "emoji": "🍽️",
       "etapas": [
         {
-          "nombre": "Producción de alimentos,desde la siembra hasta la cosecha, tiene la capacidad de realizar el transporte y cobrar mas o no realizarlo y paragial el costo",
+          "nombre": "Producción",
           "emoji": "🌾",
           "empleo": "Agricultor",
           "contrato": "Jornalero",
