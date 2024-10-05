@@ -1,0 +1,112 @@
+{
+  "mercado": [
+    {
+      "titulo": "Caída repentina de la demanda",
+      "descripcion": "Una disminución inesperada en la demanda de productos principales debido a cambios en las preferencias del consumidor."
+    },
+    {
+      "titulo": "Entrada de un competidor fuerte",
+      "descripcion": "Un nuevo competidor ingresa al mercado con productos innovadores y precios agresivos."
+    },
+    {
+      "titulo": "Crisis económica global",
+      "descripcion": "Una recesión económica mundial afecta severamente el poder adquisitivo de los clientes."
+    },
+    {
+      "titulo": "Cambios regulatorios",
+      "descripcion": "Nuevas regulaciones gubernamentales restringen significativamente la operación en el mercado principal."
+    },
+    {
+      "titulo": "Disrupción tecnológica",
+      "descripcion": "Una nueva tecnología hace que los productos actuales de la empresa queden obsoletos."
+    }
+  ],
+  "ventas": [
+    {
+      "titulo": "Pérdida de cliente principal",
+      "descripcion": "El cliente más importante de la empresa decide no renovar su contrato."
+    },
+    {
+      "titulo": "Falla en el sistema de ventas",
+      "descripcion": "Una falla técnica en el sistema de gestión de ventas causa pérdida de datos y retrasos en los pedidos."
+    },
+    {
+      "titulo": "Escándalo de corrupción",
+      "descripcion": "Se descubre que un vendedor ha estado ofreciendo sobornos, dañando la reputación de la empresa."
+    },
+    {
+      "titulo": "Campaña de marketing fallida",
+      "descripcion": "Una costosa campaña publicitaria genera controversia y reacciones negativas, afectando las ventas."
+    },
+    {
+      "titulo": "Huelga del equipo de ventas",
+      "descripcion": "El equipo de ventas inicia una huelga por desacuerdos salariales, paralizando las operaciones."
+    }
+  ],
+  "producto": [
+    {
+      "titulo": "Fallo masivo del producto",
+      "descripcion": "Se descubre un defecto crítico en el producto estrella, requiriendo un costoso retiro del mercado."
+    },
+    {
+      "titulo": "Retraso en el lanzamiento",
+      "descripcion": "Problemas de producción causan un retraso significativo en el lanzamiento de un nuevo producto clave."
+    },
+    {
+      "titulo": "Violación de patente",
+      "descripcion": "La empresa es demandada por infringir la patente de un competidor en su producto principal."
+    },
+    {
+      "titulo": "Escasez de materias primas",
+      "descripcion": "Una escasez global de un componente crucial paraliza la producción."
+    },
+    {
+      "titulo": "Problemas de calidad",
+      "descripcion": "Una serie de quejas de clientes revelan problemas de control de calidad en la línea de producción."
+    }
+  ],
+  "informacion": [
+    {
+      "titulo": "Filtración de datos",
+      "descripcion": "Información confidencial de clientes se filtra debido a una brecha de seguridad."
+    },
+    {
+      "titulo": "Ataque de ransomware",
+      "descripcion": "Un ataque de ransomware encripta datos críticos de la empresa, exigiendo un rescate."
+    },
+    {
+      "titulo": "Fallo en el respaldo de datos",
+      "descripcion": "Se descubre que el sistema de respaldo de datos ha estado fallando, resultando en pérdida de información crucial."
+    },
+    {
+      "titulo": "Desinformación viral",
+      "descripcion": "Una noticia falsa sobre la empresa se vuelve viral, causando pánico entre los inversionistas."
+    },
+    {
+      "titulo": "Error en informe financiero",
+      "descripcion": "Un error significativo en el informe financiero anual lleva a una investigación regulatoria."
+    }
+  ],
+  "falta_de_dinero": [
+    {
+      "titulo": "Crisis de liquidez",
+      "descripcion": "La empresa se queda sin efectivo para cubrir los gastos operativos mensuales."
+    },
+    {
+      "titulo": "Pérdida de inversión clave",
+      "descripcion": "Un inversionista importante retira su apoyo financiero en un momento crítico."
+    },
+    {
+      "titulo": "Fraude financiero",
+      "descripcion": "Se descubre que un ejecutivo de alto nivel ha estado malversando fondos de la empresa."
+    },
+    {
+      "titulo": "Colapso de negociaciones de financiamiento",
+      "descripcion": "Las negociaciones para obtener un préstamo crucial fracasan en el último momento."
+    },
+    {
+      "titulo": "Devaluación monetaria",
+      "descripcion": "Una devaluación repentina de la moneda local reduce significativamente el valor de los activos de la empresa."
+    }
+  ]
+}
