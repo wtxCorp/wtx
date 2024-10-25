@@ -1,0 +1,166 @@
+{
+  "matriz_autonomia_estudiante": {
+    "descripcion": "Matriz de Autonomía del Estudiante en la Era Post-AI",
+    "niveles_integracion": {
+      "integracion_laboral": {
+        "descripcion": "Empleado tradicional adaptado a la era AI",
+        "fuente_ingresos": {
+          "principal": "Salario base como especialista en implementación de AI",
+          "adicionales": [
+            "Bonos por optimización de procesos usando AI",
+            "Ingresos adicionales por capacitación",
+            "Compensación por disponibilidad 24/7 de sistemas AI"
+          ]
+        },
+        "refugio": {
+          "tipo": "Apartamento compartido en zona urbana",
+          "caracteristicas": [
+            "Espacio de trabajo remoto acondicionado",
+            "Servicios de mantenimiento automatizados",
+            "Sistema de seguridad inteligente"
+          ]
+        },
+        "alimentacion": {
+          "servicios": [
+            "Plan de alimentación con delivery automatizado",
+            "Subscripción a servicios de comida saludable",
+            "Presupuesto para restaurantes",
+            "Complementos nutricionales"
+          ]
+        },
+        "salud": {
+          "cobertura": [
+            "Seguro médico corporativo",
+            "Telemedicina y monitoreo continuo",
+            "Gimnasio con entrenadores AI",
+            "Apoyo psicológico virtual"
+          ]
+        },
+        "vestido": {
+          "items": [
+            "Uniforme laboral inteligente",
+            "Ropa casual para trabajo remoto",
+            "Vestimenta formal para reuniones",
+            "Accesorios tecnológicos incorporados"
+          ]
+        },
+        "servicios_publicos": {
+          "servicios": [
+            "Internet de alta velocidad",
+            "Energía con sistema inteligente",
+            "Agua con medición smart",
+            "Dispositivos IoT integrados"
+          ]
+        }
+      },
+      "integracion_contratos": {
+        "descripcion": "Freelancer especializado",
+        "fuente_ingresos": {
+          "principal": "Contratos por proyecto de AI",
+          "adicionales": [
+            "Consultoría en implementación de sistemas",
+            "Desarrollo de soluciones personalizadas",
+            "Regalías por productos AI desarrollados"
+          ]
+        },
+        "refugio": {
+          "tipo": "Home office equipado",
+          "caracteristicas": [
+            "Estudio móvil adaptable",
+            "Membresía en espacios de coworking",
+            "Sistema domótico integral"
+          ]
+        },
+        "alimentacion": {
+          "servicios": [
+            "Cocina inteligente programable",
+            "Servicio de chef a domicilio",
+            "Alimentación personalizada por AI",
+            "Huerto hidropónico automatizado"
+          ]
+        },
+        "salud": {
+          "cobertura": [
+            "Seguro médico independiente",
+            "Monitoreo biométrico continuo",
+            "Rutinas de ejercicio adaptativas",
+            "Medicina preventiva personalizada"
+          ]
+        },
+        "vestido": {
+          "items": [
+            "Guardarropa versátil smart",
+            "Ropa con tecnología integrada",
+            "Sistema de renovación programada",
+            "Accesorios multifuncionales"
+          ]
+        },
+        "servicios_publicos": {
+          "servicios": [
+            "Sistemas autónomos de energía",
+            "Conectividad redundante",
+            "Gestión automatizada de recursos",
+            "Mantenimiento predictivo"
+          ]
+        }
+      },
+      "integracion_negocio": {
+        "descripcion": "Emprendedor tech",
+        "fuente_ingresos": {
+          "principal": "Venta de productos/servicios AI",
+          "adicionales": [
+            "Inversiones en startups tecnológicas",
+            "Licenciamiento de tecnología",
+            "Programas de afiliados"
+          ]
+        },
+        "refugio": {
+          "tipo": "Oficina-vivienda inteligente",
+          "caracteristicas": [
+            "Centro de operaciones automatizado",
+            "Espacios de prueba y desarrollo",
+            "Sistema de seguridad avanzado"
+          ]
+        },
+        "alimentacion": {
+          "servicios": [
+            "Servicio de catering empresarial",
+            "Cocina experimental automatizada",
+            "Plan nutricional para alto rendimiento",
+            "Sistemas de producción alimentaria AI"
+          ]
+        },
+        "salud": {
+          "cobertura": [
+            "Seguro médico premium",
+            "Centro médico privado",
+            "Monitoreo integral de salud",
+            "Programas de bienestar corporativo"
+          ]
+        },
+        "vestido": {
+          "items": [
+            "Vestuario corporativo tecnológico",
+            "Ropa de presentación adaptativa",
+            "Sistema de imagen personal AI",
+            "Vestimenta con nanotecnología"
+          ]
+        },
+        "servicios_publicos": {
+          "servicios": [
+            "Infraestructura autónoma",
+            "Centro de datos privado",
+            "Sistemas redundantes de energía",
+            "Gestión ambiental inteligente"
+          ]
+        }
+      }
+    },
+    "notas_adicionales": [
+      "Cada nivel incluye adaptación continua a nuevas tecnologías",
+      "Los sistemas son escalables según el crecimiento personal/profesional",
+      "Integración de sostenibilidad en todos los aspectos",
+      "Flexibilidad para cambiar entre niveles según necesidades"
+    ]
+  }
+}
