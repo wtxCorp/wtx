@@ -1,0 +1,366 @@
+{
+  "titulo": "Matriz de Autonomía Estudiantil y Autoevaluación",
+  "descripcion": "Competencias y preguntas de evaluación para diferentes niveles de integración profesional",
+  "niveles_integracion": {
+    "mercado_laboral": {
+      "descripcion": "Integración al Mercado Laboral",
+      "nivel_autonomia": "Básico"
+    },
+    "contratos": {
+      "descripcion": "Integración por Contratos",
+      "nivel_autonomia": "Intermedio"
+    },
+    "negocios": {
+      "descripcion": "Integración por Creación de Negocios",
+      "nivel_autonomia": "Avanzado"
+    }
+  },
+  "competencias": {
+    "conocimientos_necesarios": {
+      "mercado_laboral": {
+        "ejemplos": [
+          {
+            "descripcion": "Dominio de herramientas de IA",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Puedes explicar cómo utilizarías ChatGPT para optimizar un proceso laboral específico?"
+          },
+          {
+            "descripcion": "Comprensión de flujos de trabajo automatizados",
+            "nivel_requerido": 65,
+            "pregunta_evaluacion": "¿Cómo implementarías un flujo de trabajo automatizado en tu área de especialización?"
+          },
+          {
+            "descripcion": "Conocimiento técnico específico del área",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Qué certificaciones técnicas has obtenido en tu campo y cómo las aplicarías?"
+          }
+        ]
+      },
+      "contratos": {
+        "ejemplos": [
+          {
+            "descripcion": "Gestión de proyectos con IA",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Cómo estructurarías un proyecto que combine IA y recursos humanos?"
+          },
+          {
+            "descripcion": "Conocimiento legal de contratos digitales",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Puedes explicar las implicaciones legales de un smart contract?"
+          },
+          {
+            "descripcion": "Expertise en herramientas colaborativas",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Qué estrategia usarías para coordinar equipos remotos con herramientas digitales?"
+          }
+        ]
+      },
+      "negocios": {
+        "ejemplos": [
+          {
+            "descripcion": "Conocimiento profundo del ecosistema digital",
+            "nivel_requerido": 90,
+            "pregunta_evaluacion": "¿Cómo evaluarías el potencial de mercado de una nueva tecnología emergente?"
+          },
+          {
+            "descripcion": "Comprensión de modelos de negocio digitales",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué modelo de monetización digital elegirías para tu startup y por qué?"
+          },
+          {
+            "descripcion": "Dominio de tecnologías emergentes",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo integrarías la IA generativa en tu modelo de negocio?"
+          }
+        ]
+      }
+    },
+    "networking": {
+      "mercado_laboral": {
+        "ejemplos": [
+          {
+            "descripcion": "Presencia profesional en redes",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Cómo has optimizado tu perfil de LinkedIn para atraer oportunidades laborales?"
+          },
+          {
+            "descripcion": "Participación en comunidades virtuales",
+            "nivel_requerido": 65,
+            "pregunta_evaluacion": "¿Qué estrategia sigues para participar en foros profesionales online?"
+          },
+          {
+            "descripcion": "Conexiones con profesionales del sector",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Cómo mantienes relaciones profesionales significativas en entornos digitales?"
+          }
+        ]
+      },
+      "contratos": {
+        "ejemplos": [
+          {
+            "descripcion": "Red de colaboradores freelance",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Qué criterios usas para seleccionar proyectos en plataformas freelance?"
+          },
+          {
+            "descripcion": "Participación en plataformas de trabajo",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Cómo gestionas tu reputación digital como profesional independiente?"
+          },
+          {
+            "descripcion": "Networking internacional digital",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Qué estrategias usas para conseguir clientes internacionales?"
+          }
+        ]
+      },
+      "negocios": {
+        "ejemplos": [
+          {
+            "descripcion": "Construcción de ecosistemas de partners",
+            "nivel_requerido": 90,
+            "pregunta_evaluacion": "¿Cómo identificas y atraes potenciales socios estratégicos?"
+          },
+          {
+            "descripcion": "Alianzas estratégicas digitales",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué valor único ofreces a tu red de colaboradores?"
+          },
+          {
+            "descripcion": "Comunidad de early adopters",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo construyes una comunidad engaged alrededor de tu proyecto?"
+          }
+        ]
+      }
+    },
+    "negociacion": {
+      "mercado_laboral": {
+        "ejemplos": [
+          {
+            "descripcion": "Negociación de condiciones laborales",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Cómo argumentarías tu valor en una entrevista virtual?"
+          },
+          {
+            "descripcion": "Presentación de portafolio digital",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Qué elementos destacarías en tu portafolio digital?"
+          },
+          {
+            "descripcion": "Comunicación efectiva virtual",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo manejarías un conflicto en un entorno remoto?"
+          }
+        ]
+      },
+      "contratos": {
+        "ejemplos": [
+          {
+            "descripcion": "Negociación de tarifas y alcances",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué metodología usas para establecer tus tarifas profesionales?"
+          },
+          {
+            "descripcion": "Gestión de expectativas cliente",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo manejas las expectativas de entrega con clientes remotos?"
+          },
+          {
+            "descripcion": "Propuestas de valor digital",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Cómo estructuras una propuesta digital convincente?"
+          }
+        ]
+      },
+      "negocios": {
+        "ejemplos": [
+          {
+            "descripcion": "Negociación con inversores",
+            "nivel_requerido": 90,
+            "pregunta_evaluacion": "¿Cómo presentarías tu startup a potenciales inversores en 5 minutos?"
+          },
+          {
+            "descripcion": "Pitch digital efectivo",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué métricas usarías para demostrar el potencial de tu proyecto?"
+          },
+          {
+            "descripcion": "Gestión de stakeholders",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo balanceas los intereses de diferentes stakeholders?"
+          }
+        ]
+      }
+    },
+    "investigacion_consumidores": {
+      "mercado_laboral": {
+        "ejemplos": [
+          {
+            "descripcion": "Análisis básico de datos",
+            "nivel_requerido": 65,
+            "pregunta_evaluacion": "¿Qué herramientas de análisis de datos utilizas regularmente?"
+          },
+          {
+            "descripcion": "Comprensión de tendencias",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Cómo identificas tendencias emergentes en tu sector?"
+          },
+          {
+            "descripcion": "Uso de herramientas analíticas",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Qué insights has obtenido de tus análisis recientes?"
+          }
+        ]
+      },
+      "contratos": {
+        "ejemplos": [
+          {
+            "descripcion": "Investigación de nichos de mercado",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo determinas la viabilidad de un nicho de mercado?"
+          },
+          {
+            "descripcion": "Análisis de competencia digital",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Qué métodos usas para analizar a tu competencia online?"
+          },
+          {
+            "descripcion": "Estudio de necesidades cliente",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Cómo validas las necesidades reales de tus clientes?"
+          }
+        ]
+      },
+      "negocios": {
+        "ejemplos": [
+          {
+            "descripcion": "Big Data y análisis predictivo",
+            "nivel_requerido": 90,
+            "pregunta_evaluacion": "¿Cómo utilizas el big data para tomar decisiones estratégicas?"
+          },
+          {
+            "descripcion": "Identificación de oportunidades",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué metodología sigues para validar nuevas oportunidades?"
+          },
+          {
+            "descripcion": "Validación de mercado digital",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo mides el product-market fit?"
+          }
+        ]
+      }
+    },
+    "innovacion": {
+      "mercado_laboral": {
+        "ejemplos": [
+          {
+            "descripcion": "Adaptación a nuevas tecnologías",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Cómo te mantienes actualizado en nuevas tecnologías?"
+          },
+          {
+            "descripcion": "Propuesta de mejoras",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Qué proceso sigues para proponer mejoras en tu trabajo?"
+          },
+          {
+            "descripcion": "Pensamiento creativo digital",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo aplicas el design thinking en tu rol?"
+          }
+        ]
+      },
+      "contratos": {
+        "ejemplos": [
+          {
+            "descripcion": "Desarrollo de soluciones únicas",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué metodología usas para desarrollar soluciones innovadoras?"
+          },
+          {
+            "descripcion": "Innovación en procesos digitales",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo optimizas procesos digitales existentes?"
+          },
+          {
+            "descripcion": "Metodologías ágiles",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Cómo implementas scrum en tus proyectos?"
+          }
+        ]
+      },
+      "negocios": {
+        "ejemplos": [
+          {
+            "descripcion": "Innovación disruptiva",
+            "nivel_requerido": 90,
+            "pregunta_evaluacion": "¿Cómo identificas oportunidades de innovación disruptiva?"
+          },
+          {
+            "descripcion": "Creación de nuevos modelos",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Qué proceso sigues para validar nuevos modelos de negocio?"
+          },
+          {
+            "descripcion": "Transformación digital",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo lideras la transformación digital?"
+          }
+        ]
+      }
+    },
+    "diferenciacion": {
+      "mercado_laboral": {
+        "ejemplos": [
+          {
+            "descripcion": "Desarrollo de marca personal",
+            "nivel_requerido": 70,
+            "pregunta_evaluacion": "¿Qué te hace único en tu campo profesional?"
+          },
+          {
+            "descripcion": "Especialización técnica",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Cómo demuestras tu expertise técnica?"
+          },
+          {
+            "descripcion": "Portfolio digital único",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Qué elementos destacan en tu presencia digital?"
+          }
+        ]
+      },
+      "contratos": {
+        "ejemplos": [
+          {
+            "descripcion": "Propuesta de valor única",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Cuál es tu propuesta de valor única como freelancer?"
+          },
+          {
+            "descripcion": "Especialización en nicho",
+            "nivel_requerido": 80,
+            "pregunta_evaluacion": "¿Cómo te diferencias en tu nicho de especialización?"
+          },
+          {
+            "descripcion": "Servicios diferenciados",
+            "nivel_requerido": 75,
+            "pregunta_evaluacion": "¿Qué servicios únicos ofreces?"
+          }
+        ]
+      },
+      "negocios": {
+        "ejemplos": [
+          {
+            "descripcion": "Propuesta innovadora mercado",
+            "nivel_requerido": 90,
+            "pregunta_evaluacion": "¿Qué hace único a tu modelo de negocio?"
+          },
+          {
+            "descripcion": "Ventaja competitiva clara",
+            "nivel_requerido": 85,
+            "pregunta_evaluacion": "¿Cómo mantienes tu ventaja competitiva?"
+          },
+          {
+            "descripcion": "Modelo de negocio único
